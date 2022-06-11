@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "6278bb2638afa559f8b9354c"
+  },
+  "isAdmin": true,
+  "name": "Pranshu Malhotra",
+  "email": "p@m.com",
+  "passwordHash": "$2a$10$n9u5QxWvUXwuxMIkWtMwy.iAgdrNX3Muqpyj3LIblE7xS.2FIc652",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6283309690f1e824c46e86d8"
+  },
+  "isAdmin": false,
+  "name": "Raghav Goyal",
+  "email": "r@g.com",
+  "passwordHash": "$2a$10$gPBtVAYtlkSIi8IGZ2X/tO5q2TjfFDexFTDIp36YbrZ1fV5E6d00G",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6287624ea0e82148bcca3f61"
+  },
+  "isAdmin": true,
+  "name": "Navish",
+  "email": "n@m.com",
+  "passwordHash": "$2a$10$SoNMdESi8Awc.9GqtfY6oeWFmVBI55lO.6sQN3vTtO42i5hYi05CO",
+  "__v": 0
+}]

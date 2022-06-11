@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "6278d60137f75652a4f1a90d"
+  },
+  "name": "Mobile",
+  "icon": "mobile",
+  "color": "#F0E4E1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627cb4dc2fffd76d78199536"
+  },
+  "name": "Desktop",
+  "icon": "desktop",
+  "color": "#d1f3ff",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627cb5912fffd76d78199550"
+  },
+  "name": "Camera",
+  "icon": "camera",
+  "color": "#ffe7c2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627cc86c2fffd76d781995e4"
+  },
+  "name": "Car",
+  "icon": "car",
+  "color": "#ffd6ff",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627f56b9a194534c48834a57"
+  },
+  "name": "Tablet",
+  "icon": "tablet",
+  "color": "#c7ffdb",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6280ca9a7b99a222d07498df"
+  },
+  "name": "Fashion",
+  "icon": "sun",
+  "color": "#fdff94",
+  "__v": 0
+}]

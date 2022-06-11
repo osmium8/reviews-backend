@@ -1,0 +1,232 @@
+[{
+  "_id": {
+    "$oid": "6278ec33d70ffd4a34afb431"
+  },
+  "image": "http://localhost:3000/public/uploads/puma_ignite.jpeg-1652935371545.jpeg",
+  "images": [
+    "http://localhost:3000/public/uploads/rating.png-1652680923747.png",
+    "http://localhost:3000/public/uploads/27594672.jpg-1652680923748.jpeg"
+  ],
+  "brand": "PUMA",
+  "price": 2670,
+  "reviews": [
+    {
+      "$oid": "6278ec5dd70ffd4a34afb434"
+    },
+    {
+      "$oid": "6278fe970c3bff4924fb2828"
+    },
+    {
+      "$oid": "6279ed5b6d324252ecc36a73"
+    },
+    {
+      "$oid": "6279ed606d324252ecc36a76"
+    },
+    {
+      "$oid": "6279ee3a3e72335a54d0bc7c"
+    },
+    {
+      "$oid": "6279ee523e72335a54d0bc7f"
+    },
+    {
+      "$oid": "6281f19185e44531247f8421"
+    },
+    {
+      "$oid": "6285e99941350764400914cf"
+    }
+  ],
+  "totalReviews": 0,
+  "rating": 0,
+  "numReviews": 0,
+  "isFeatured": true,
+  "code": "P88",
+  "name": "PUMA Fushion Runner Green",
+  "description": "shoes",
+  "forReview": false,
+  "category": {
+    "$oid": "6280ca9a7b99a222d07498df"
+  },
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1652091955391"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627cc8502fffd76d781995dc"
+  },
+  "image": "http://localhost:3000/public/uploads/g67.jpg-1652935379824.jpeg",
+  "images": [],
+  "brand": "Mercedes",
+  "price": 20000000,
+  "reviews": [
+    {
+      "$oid": "6280e1f3dc877d59ecfdbe36"
+    },
+    {
+      "$oid": "628200de1cb46d5b1835f20d"
+    },
+    {
+      "$oid": "6285c525ead6d11424553442"
+    },
+    {
+      "$oid": "6285c548ead6d11424553469"
+    },
+    {
+      "$oid": "62876531a0e82148bcca3fdd"
+    }
+  ],
+  "rating": 0,
+  "isFeatured": true,
+  "code": "G67",
+  "name": "Mercedes AMG G67",
+  "description": " Mercedes G class vehicles are really special for their off-roading capabilities. The G class cars can adapt with any terrain and take you to any remote area without any problems. The G s also comes with Land Rover rivaling off-roading capabilities.",
+  "forReview": false,
+  "category": {
+    "$oid": "627cc86c2fffd76d781995e4"
+  },
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1652344912798"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627f639ca194534c48834aac"
+  },
+  "image": "http://localhost:3000/public/uploads/Pixel_6a_header.png-1652935388733.png",
+  "images": [],
+  "brand": "Google",
+  "price": 35000,
+  "reviews": [
+    {
+      "$oid": "628211ad8e2a023f20a88ba9"
+    }
+  ],
+  "rating": 0,
+  "isFeatured": true,
+  "code": "PIXEL6A",
+  "name": "Google Pixel 6A",
+  "description": "All new google pixel 6A mobile phone.",
+  "forReview": false,
+  "category": {
+    "$oid": "6278d60137f75652a4f1a90d"
+  },
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1652515740121"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627f656ea194534c48834af1"
+  },
+  "image": "http://localhost:3000/public/uploads/desktop.jpg-1652935399258.jpeg",
+  "images": [],
+  "brand": "Lenovo",
+  "price": 100000,
+  "reviews": [
+    {
+      "$oid": "6282123c8e2a023f20a88bd6"
+    },
+    {
+      "$oid": "6283d1b874eddb5d749ffae3"
+    },
+    {
+      "$oid": "6283dd277b3d75245ccdf5b1"
+    },
+    {
+      "$oid": "6283dfe36febd12a70cdeaea"
+    },
+    {
+      "$oid": "6283e0ee6febd12a70cdeba2"
+    },
+    {
+      "$oid": "6283e1046febd12a70cdebb2"
+    },
+    {
+      "$oid": "6283e1506febd12a70cdebd5"
+    },
+    {
+      "$oid": "6283e1786febd12a70cdebf8"
+    },
+    {
+      "$oid": "6283e2666febd12a70cdec57"
+    },
+    {
+      "$oid": "62873315a0e82148bcca3c6f"
+    },
+    {
+      "$oid": "628734e8a0e82148bcca3cf8"
+    },
+    {
+      "$oid": "62875f42a0e82148bcca3e5a"
+    }
+  ],
+  "rating": 0,
+  "isFeatured": true,
+  "code": "LENOVO",
+  "name": "Lenovo AIO 5 desktop PC",
+  "description": "All in one desktop from lenovo.",
+  "forReview": false,
+  "category": {
+    "$oid": "627cb4dc2fffd76d78199536"
+  },
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1652516206696"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62836c811e5ca037a8cd633c"
+  },
+  "image": "http://localhost:3000/public/uploads/login-image.jpg-1652935409050.jpeg",
+  "images": [],
+  "brand": "p",
+  "price": 5,
+  "forReview": true,
+  "reviews": [],
+  "rating": 0,
+  "isFeatured": false,
+  "code": "P888",
+  "name": "p",
+  "description": "p",
+  "category": {
+    "$oid": "627cb4dc2fffd76d78199536"
+  },
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1652780161893"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6287177c609dd76a8860fe4d"
+  },
+  "image": "http://localhost:3000/public/uploads/27594672.jpg-1653020540718.jpeg",
+  "images": [],
+  "brand": "8",
+  "price": 8,
+  "forReview": true,
+  "reviews": [],
+  "rating": 0,
+  "isFeatured": false,
+  "code": "8",
+  "name": "8",
+  "description": "8",
+  "category": {
+    "$oid": "6278d60137f75652a4f1a90d"
+  },
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1653020540802"
+    }
+  },
+  "__v": 0
+}]
