@@ -50,5 +50,5 @@ const PORT = process.env.PORT || 3000;
 //Server
 app.listen(PORT, () => {
 
-    console.log(`server is running on PORT: ${PORT}`);
+    console.log(`-Server is running on PORT: ${PORT}-`);
 })
